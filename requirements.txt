@@ -33,7 +33,7 @@ flair~=0.11.1
 textblob~=0.17.1
 stocktrends~=0.1.5
 ta
-pandas_da
+pandas_ta
 quantstats
 statsmodels==0.14
 tensorflow[and-cuda]
