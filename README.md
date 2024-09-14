@@ -1,4 +1,8 @@
-If you have problems with installation, let me know. 
+<aLca>
+DONT WASTE UR TIME, REQUIRES PYTHON 3.10 AND ONLY THIS VERSION
+</aLca>
+
+If you have problems with installation, let me know.
 I am searching _**collaborators for this project**_. If you have experience and want to collaborate text me on email or github Issues
 
  _**SEE ALSO**_ [Machine Learning Strategy](https://github.com/Leci37/Strategy-stock-Random-Forest-ML-sklearn-TraderView/tree/main)      <img src="https://raw.githubusercontent.com/Leci37/Strategy-stock-Random-Forest-ML-sklearn-TraderView/main/img/give_a_start-RB.png" alt="give_a_start.jpg" width="72" />  
