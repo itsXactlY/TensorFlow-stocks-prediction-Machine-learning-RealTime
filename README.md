@@ -1,6 +1,10 @@
-<aLca>
+***<aLca>
 DONT WASTE UR TIME, REQUIRES PYTHON 3.10 AND ONLY THIS VERSION
-</aLca>
+</aLca>***
+
+
+
+
 
 If you have problems with installation, let me know.
 I am searching _**collaborators for this project**_. If you have experience and want to collaborate text me on email or github Issues
