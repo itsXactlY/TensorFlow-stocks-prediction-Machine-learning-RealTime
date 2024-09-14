@@ -37,3 +37,4 @@ pandas_da
 quantstats
 statsmodels==0.14
 tensorflow[and-cuda]
+tensorflow-addons==0.23.0
