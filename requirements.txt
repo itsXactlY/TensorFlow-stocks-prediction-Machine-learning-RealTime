@@ -35,5 +35,5 @@ stocktrends~=0.1.5
 ta
 pandas_da
 quantstats
-statsmodels
+statsmodels==0.14
 tensorflow[and-cuda]
