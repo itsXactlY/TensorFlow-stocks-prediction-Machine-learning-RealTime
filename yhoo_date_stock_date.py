@@ -251,11 +251,11 @@ list_stocks = ["NATGAS","GE","SPOT","F","SAN.MC","TMUS","MBG.DE","INTC","TRIG.L"
 
 #get_all_date_info_yhoo("BA")
 #list_stocks = ["MSFT"]
-# for s in list_stocks:
-#     try:
-#         get_all_date_info_yhoo(s)
-#     except Exception as e:
-#          Logger.logr.debug(str(e)+ " Exception ALL stockID: " + s)
+for s in list_stocks:
+    try:
+        get_all_date_info_yhoo(s)
+    except Exception as e:
+         Logger.logr.debug(str(e)+ " Exception ALL stockID: " + s)
 
 
 

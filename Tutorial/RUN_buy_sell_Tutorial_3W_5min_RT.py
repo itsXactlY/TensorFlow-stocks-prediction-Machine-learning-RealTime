@@ -1,4 +1,5 @@
 import os
+os.environ["PATH"] += os.pathsep + '/usr/bin/'
 import sys
 import gc
 import numpy as np
@@ -13,6 +14,8 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 os.environ['TF_GPU_ALLOCATOR'] = 'cuda_malloc_async'
 print(os.getenv('TF_GPU_ALLOCATOR'))
 physical_devices = tf.config.experimental.list_physical_devices('CPU')
+
+sys.path.append(os.path.abspath('/home/alca/projects/TensorFlow-stocks-prediction-Machine-learning-RealTime'))
 
 from utilW3 import buy_sell_point, Feature_selection_create_json, get_info_model_evaluation
 from utilW3.data import normalise_data, get_window_data, split_data, set_save_class_weight, get_load_class_weight, \

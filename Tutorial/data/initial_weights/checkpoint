@@ -1,0 +1,2 @@
+model_checkpoint_path: "BTCUSDT_klines__3W5__tut_A1__initial_weights.tf"
+all_model_checkpoint_paths: "BTCUSDT_klines__3W5__tut_A1__initial_weights.tf"
