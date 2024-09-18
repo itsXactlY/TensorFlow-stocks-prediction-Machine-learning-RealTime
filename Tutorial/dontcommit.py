@@ -12,7 +12,7 @@ spec.loader.exec_module(fast_mssql)
 server = 'localhost'
 database = 'BacktraderData'
 username = 'sa'
-password = 'J9VcSkC8bqA76MpeP2dxKB'
+password = ''
 driver = '{ODBC Driver 18 for SQL Server}'  # Adjust the driver version if necessary
 
 connection_string = (f'DRIVER={driver};'
